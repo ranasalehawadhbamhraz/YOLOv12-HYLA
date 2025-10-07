@@ -55,7 +55,7 @@ Training was performed with:
 
 ## Citation
 If you use this code or dataset, please cite:
-> R. S. Bamhraz (2025). YOLOv12-HYLA: A Hybrid Learnable Attention Architecture Leveraging Fixed-Learnable Weights for Enhanced Coffee Bean Detection . GitHub. https://github.com/ranabamhraz/Yemeni-Coffee-Beans-Detection
+> R. S. Bamhraz (2025). YOLOv12-HYLA: A Hybrid Learnable Attention Architecture Leveraging Fixed-Learnable Weights for Enhanced Coffee Bean Detection. https: https://github.com/ranasalehawadhbamhraz/YOLOv12-HYLA
 
 ## License
 Code released under the [MIT License](LICENSE).
