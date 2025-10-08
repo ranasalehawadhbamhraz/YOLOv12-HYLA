@@ -9,7 +9,7 @@ We propose YOLOv12-HYLA, a hybrid learnable attention-based object detection fra
 
 ## Dataset
 The dataset is publicly available on Kaggle:
-👉 [Yemeni Coffee Beans Dataset](www.kaggle.com/datasets/ranasalehbamhraz2/yemeni-coffee-beans-dataset)
+👉 [Yemeni Coffee Beans Dataset](https://www.kaggle.com/datasets/merasaleh/yemeni-coffee-beans-detection)
 
 ## Model Training
 Training was performed with:
