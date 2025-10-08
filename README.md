@@ -52,10 +52,18 @@ Training was performed with:
 | YOLOv12s | 2.5173 | 1.4000 |
 | YOLOv12-HYLA | **2.0111** | **1.2956** |
 
+## Acknowledgement
+The code is based on ultralytics. Thanks for their excellent work!
 
 ## Citation
-If you use this code or dataset, please cite:
+If you use this customized code or dataset, please cite:
 > R. S. Bamhraz (2025). YOLOv12-HYLA: A Hybrid Learnable Attention Architecture Leveraging Fixed-Learnable Weights for Enhanced Coffee Bean Detection. https: https://github.com/ranasalehawadhbamhraz/YOLOv12-HYLA
+> @article{tian2025yolov12,
+  title={YOLOv12: Attention-Centric Real-Time Object Detectors},
+  author={Tian, Yunjie and Ye, Qixiang and Doermann, David},
+  journal={arXiv preprint arXiv:2502.12524},
+  year={2025}
+}
 
 ## License
 Code released under the [MIT License](LICENSE).
