@@ -58,6 +58,7 @@ The code is based on ultralytics. Thanks for their excellent work!
 ## Citation
 If you use this customized code or dataset, please cite:
 > R. S. Bamhraz (2025). YOLOv12-HYLA: A Hybrid Learnable Attention Architecture Leveraging Fixed-Learnable Weights for Enhanced Coffee Bean Detection. https: https://github.com/ranasalehawadhbamhraz/YOLOv12-HYLA
+## Baseline YOLOv12
 > @article{tian2025yolov12,
   title={YOLOv12: Attention-Centric Real-Time Object Detectors},
   author={Tian, Yunjie and Ye, Qixiang and Doermann, David},
