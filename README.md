@@ -1,11 +1,11 @@
 # Yemeni-Coffee-Beans-Detection
-YOLOv12-HYLA: YOLOv12-based model for detecting Yemeni coffee beans maturity levels.
+YOLOv12-HYLA: YOLOv12-based model for detecting Yemeni coffee beans maturity levels and counting.
 
 This repository contains the code and model configuration used in the paper:
 **"YOLOv12-HYLA: A Hybrid Learnable Attention Architecture Leveraging Fixed-Learnable Weights for Enhanced Coffee Bean Detection"**
 
 ## Overview
-e propose YOLOv12-HYLA, a hybrid learnable object detection framework tailored for real-time coffee bean maturity assessment. YOLOv12-HYLA integrates ACmix Fixed-weight modules for stable multi-scale feature fusion and SECBAM Learnable-weight module for adaptive channel–spatial attention refinement.
+We propose YOLOv12-HYLA, a hybrid learnable attention-based object detection framework tailored for real-time coffee bean maturity assessment. YOLOv12-HYLA integrates ACmix Fixed-weight modules for stable multi-scale feature fusion and SECBAM Learnable-weight module for adaptive channel–spatial attention refinement.
 
 ## Dataset
 The dataset is publicly available on Kaggle:
